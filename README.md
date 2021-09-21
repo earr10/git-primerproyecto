@@ -1,2 +1,3 @@
 # git-primerproyecto
-Este es un proyecto de prueba con Git.
+
+Este es mi primer proyecto usando Git y es el primero que subo a GitHub.
